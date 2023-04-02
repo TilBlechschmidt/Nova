@@ -854,7 +854,7 @@
   (symbol (lib_id "Device:C") (at 58.42 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0aed79fa-299b-4111-8a1c-df2be3cde02c)
-    (property "Reference" "C48" (at 50.546 101.6 0)
+    (property "Reference" "C27" (at 50.546 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 50.546 104.14 0)
@@ -880,7 +880,7 @@
   (symbol (lib_id "power:GND") (at 105.41 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3331be1b-8f98-4e06-bbec-cf25938e8db2)
-    (property "Reference" "#PWR051" (at 105.41 118.11 0)
+    (property "Reference" "#PWR052" (at 105.41 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 105.41 115.57 0)
@@ -896,7 +896,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR051") (unit 1)
+          (reference "#PWR052") (unit 1)
         )
       )
     )
@@ -905,7 +905,7 @@
   (symbol (lib_id "power:GND") (at 193.04 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3a98b3ff-ca6b-4531-8830-505deb491a84)
-    (property "Reference" "#PWR053" (at 193.04 118.11 0)
+    (property "Reference" "#PWR054" (at 193.04 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 193.04 115.57 0)
@@ -921,7 +921,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR053") (unit 1)
+          (reference "#PWR054") (unit 1)
         )
       )
     )
@@ -966,7 +966,7 @@
   (symbol (lib_id "Device:C") (at 193.04 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 47e42d7e-cabe-4671-9cf3-23ae88e4b42c)
-    (property "Reference" "C30" (at 185.166 101.6 0)
+    (property "Reference" "C32" (at 185.166 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 185.166 104.14 0)
@@ -992,7 +992,7 @@
   (symbol (lib_id "Device:C") (at 105.41 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4be47def-52b4-4f02-b8b2-6c54c9602f4a)
-    (property "Reference" "C47" (at 109.22 88.265 0)
+    (property "Reference" "C26" (at 109.22 88.265 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "200n" (at 109.22 90.805 0)
@@ -1018,7 +1018,7 @@
   (symbol (lib_id "power:+3.3VA") (at 193.04 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66eee3be-78a6-4f84-a2e5-da4d2b098ba6)
-    (property "Reference" "#PWR049" (at 193.04 90.17 0)
+    (property "Reference" "#PWR050" (at 193.04 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3VA" (at 193.04 81.534 0)
@@ -1034,7 +1034,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR049") (unit 1)
+          (reference "#PWR050") (unit 1)
         )
       )
     )
@@ -1043,7 +1043,7 @@
   (symbol (lib_id "Device:C") (at 69.85 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69cc29db-6b2d-4314-b506-e96c07a0cb54)
-    (property "Reference" "C26" (at 61.976 101.6 0)
+    (property "Reference" "C28" (at 61.976 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 61.976 104.14 0)
@@ -1069,7 +1069,7 @@
   (symbol (lib_id "Device:C") (at 82.55 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b6c0f9e-1eec-4317-a951-241ca607d930)
-    (property "Reference" "C27" (at 74.676 101.6 0)
+    (property "Reference" "C29" (at 74.676 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 74.676 104.14 0)
@@ -1095,7 +1095,7 @@
   (symbol (lib_id "Device:C") (at 180.34 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b8a0de6-8048-43dd-9d88-baee6508d0c3)
-    (property "Reference" "C29" (at 172.466 101.6 0)
+    (property "Reference" "C31" (at 172.466 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 172.466 104.14 0)
@@ -1121,7 +1121,7 @@
   (symbol (lib_id "Device:C") (at 132.08 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 880fbc56-ca56-4e19-b27c-9ee8b4c56004)
-    (property "Reference" "C28" (at 123.698 101.6 0)
+    (property "Reference" "C30" (at 123.698 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 123.698 104.14 0)
@@ -1147,7 +1147,7 @@
   (symbol (lib_id "power:+3.3V") (at 82.55 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8b2d52b8-64ba-4331-ac18-d3b68cad9707)
-    (property "Reference" "#PWR045" (at 82.55 90.17 0)
+    (property "Reference" "#PWR047" (at 82.55 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 82.55 81.534 0)
@@ -1163,7 +1163,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR046") (unit 1)
+          (reference "#PWR047") (unit 1)
         )
       )
     )
@@ -1204,7 +1204,7 @@
   (symbol (lib_id "power:+3.3V") (at 180.34 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 99c313b8-8f68-46fb-be55-ded2374a35d0)
-    (property "Reference" "#PWR048" (at 180.34 90.17 0)
+    (property "Reference" "#PWR049" (at 180.34 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 180.34 81.534 0)
@@ -1220,7 +1220,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR048") (unit 1)
+          (reference "#PWR049") (unit 1)
         )
       )
     )
@@ -1229,7 +1229,7 @@
   (symbol (lib_id "power:GND") (at 157.48 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a7534265-f16f-4074-9bf9-2ea3d67ddcc8)
-    (property "Reference" "#PWR052" (at 157.48 118.11 0)
+    (property "Reference" "#PWR053" (at 157.48 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 157.48 115.57 0)
@@ -1245,7 +1245,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR052") (unit 1)
+          (reference "#PWR053") (unit 1)
         )
       )
     )
@@ -1292,7 +1292,7 @@
   (symbol (lib_id "power:GND") (at 217.17 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid be18c772-1aea-4613-8caa-fd72f44ababf)
-    (property "Reference" "#PWR054" (at 217.17 118.11 0)
+    (property "Reference" "#PWR055" (at 217.17 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 217.17 116.84 0)
@@ -1308,7 +1308,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR054") (unit 1)
+          (reference "#PWR055") (unit 1)
         )
       )
     )
@@ -1317,7 +1317,7 @@
   (symbol (lib_id "power:+3.3V") (at 132.08 86.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c44c24e4-e7ba-4093-9a45-361b0c372b6b)
-    (property "Reference" "#PWR047" (at 132.08 90.17 0)
+    (property "Reference" "#PWR048" (at 132.08 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 132.08 82.296 0)
@@ -1333,7 +1333,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR047") (unit 1)
+          (reference "#PWR048") (unit 1)
         )
       )
     )
@@ -1342,7 +1342,7 @@
   (symbol (lib_id "power:GND") (at 82.55 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e34c4aca-87e7-43b6-9162-6e9ebd373bcc)
-    (property "Reference" "#PWR050" (at 82.55 118.11 0)
+    (property "Reference" "#PWR051" (at 82.55 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 82.55 115.57 0)
@@ -1358,7 +1358,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR050") (unit 1)
+          (reference "#PWR051") (unit 1)
         )
       )
     )
@@ -1383,7 +1383,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "#PWR045") (unit 1)
+          (reference "#PWR046") (unit 1)
         )
       )
     )
