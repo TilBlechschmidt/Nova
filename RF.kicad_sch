@@ -2438,7 +2438,7 @@
   (symbol (lib_id "RF:nRF24L01P") (at 97.79 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23014403-7e5e-4676-8b6b-36c77ca33f5f)
-    (property "Reference" "U8" (at 86.614 53.34 0)
+    (property "Reference" "U7" (at 86.614 53.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "nRF24L01P" (at 92.202 71.628 0)
@@ -2473,7 +2473,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "U8") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -2564,7 +2564,7 @@
   (symbol (lib_id "Device:C") (at 158.75 43.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e373078-44f5-4acd-b9d7-ec37e4f4cd8f)
-    (property "Reference" "C16" (at 151.13 41.91 0)
+    (property "Reference" "C15" (at 151.13 41.91 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "220p" (at 149.86 44.45 0)
@@ -2581,7 +2581,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C16") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -2616,7 +2616,7 @@
   (symbol (lib_id "Device:C") (at 142.24 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 340ec1cd-ad2c-463e-af1f-c66d530a9faa)
-    (property "Reference" "C19" (at 142.24 79.756 90)
+    (property "Reference" "C18" (at 142.24 79.756 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "33p" (at 142.24 81.534 90)
@@ -2633,7 +2633,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C19") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
     )
@@ -2667,7 +2667,7 @@
   (symbol (lib_id "Odyssey:2450BP39D100CE") (at 208.28 63.5 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 39627ccc-8b6f-4225-8da2-ce3aec13a06a)
-    (property "Reference" "U7" (at 208.28 58.166 0)
+    (property "Reference" "U6" (at 208.28 58.166 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2450BP39D100CE" (at 208.28 60.706 0)
@@ -2686,7 +2686,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "U7") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -2695,7 +2695,7 @@
   (symbol (lib_id "Device:C") (at 115.57 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3b03e260-f617-4569-b54b-54d8a35d06f7)
-    (property "Reference" "C15" (at 119.38 41.9099 0)
+    (property "Reference" "C14" (at 119.38 41.9099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1n" (at 119.38 44.4499 0)
@@ -2712,7 +2712,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C15") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -2721,7 +2721,7 @@
   (symbol (lib_id "Device:C") (at 168.91 43.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 43d56eb1-8e5c-47fe-aa8e-ecb762741cd2)
-    (property "Reference" "C17" (at 165.608 41.91 0)
+    (property "Reference" "C16" (at 165.608 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 165.608 44.45 0)
@@ -2738,7 +2738,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C17") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
@@ -2747,7 +2747,7 @@
   (symbol (lib_id "Odyssey:E220-400M30S") (at 194.31 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 462880f8-673d-40b0-8753-483c32102d18)
-    (property "Reference" "U9" (at 181.61 121.92 0)
+    (property "Reference" "U8" (at 181.61 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "E220-400M30S" (at 189.23 137.16 0)
@@ -2784,7 +2784,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "U9") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -2843,7 +2843,7 @@
   (symbol (lib_id "Device:C") (at 226.06 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4baeabb0-2ffc-4865-8064-6ea479c98921)
-    (property "Reference" "C24" (at 222.25 117.475 0)
+    (property "Reference" "C23" (at 222.25 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 222.25 120.015 0)
@@ -2860,7 +2860,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C24") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -3023,7 +3023,7 @@
   (symbol (lib_id "Device:C") (at 105.41 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ed31555-5371-4da2-9531-d9e22688ba7f)
-    (property "Reference" "C14" (at 109.22 41.9099 0)
+    (property "Reference" "C13" (at 109.22 41.9099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10n" (at 109.22 44.4499 0)
@@ -3040,7 +3040,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C14") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -3125,7 +3125,7 @@
   (symbol (lib_id "Odyssey:2450BM14A0002T") (at 137.16 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a5f382d9-1e97-4566-a267-19eee353fccb)
-    (property "Reference" "U6" (at 137.16 57.15 0)
+    (property "Reference" "U5" (at 137.16 57.15 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2450BM14A0002T" (at 137.16 59.69 0)
@@ -3146,7 +3146,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "U6") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
@@ -3206,7 +3206,7 @@
   (symbol (lib_id "Device:C") (at 193.04 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b9b6dd45-98b7-4407-9017-0b1aa0b5ed78)
-    (property "Reference" "C18" (at 193.04 58.42 90)
+    (property "Reference" "C17" (at 193.04 58.42 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.3p" (at 193.04 60.96 90)
@@ -3223,7 +3223,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C18") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -3232,7 +3232,7 @@
   (symbol (lib_id "Device:C") (at 74.93 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c395c944-351b-4362-aff4-5d00984621e5)
-    (property "Reference" "C21" (at 78.74 88.8999 0)
+    (property "Reference" "C20" (at 78.74 88.8999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "33n" (at 78.74 91.4399 0)
@@ -3249,7 +3249,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C21") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
     )
@@ -3283,7 +3283,7 @@
   (symbol (lib_id "Device:C") (at 101.6 118.11 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9bdec10-7aa1-49b0-94fd-4fe34fff9998)
-    (property "Reference" "C22" (at 101.6 111.76 90)
+    (property "Reference" "C21" (at 101.6 111.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100n" (at 101.6 114.3 90)
@@ -3300,7 +3300,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C22") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -3309,7 +3309,7 @@
   (symbol (lib_id "Odyssey:RFX2401C") (at 176.53 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ce653641-930e-4f2a-8d36-588fcf0ccd2d)
-    (property "Reference" "U5" (at 170.18 55.88 0)
+    (property "Reference" "U4" (at 170.18 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RFX2401C" (at 184.15 55.88 0)
@@ -3340,7 +3340,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "U5") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -3426,7 +3426,7 @@
   (symbol (lib_id "Device:C") (at 142.24 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d32c96d0-224a-4088-ab62-ffcf10399565)
-    (property "Reference" "C20" (at 142.24 90.17 90)
+    (property "Reference" "C19" (at 142.24 90.17 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "33p" (at 142.24 92.202 90)
@@ -3443,7 +3443,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C20") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
     )
@@ -3452,7 +3452,7 @@
   (symbol (lib_id "Odyssey:MAX-M10S") (at 90.17 138.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0611cc6-6984-476b-90b7-a6ee14fbd898)
-    (property "Reference" "U10" (at 77.47 147.32 0)
+    (property "Reference" "U9" (at 77.47 147.32 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MAX-M10S" (at 92.456 147.32 0)
@@ -3485,7 +3485,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "U10") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
     )
@@ -3519,7 +3519,7 @@
   (symbol (lib_id "Device:C") (at 214.63 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid edc70c28-a039-4bdf-81ab-b65fe90f0536)
-    (property "Reference" "C23" (at 210.82 117.475 0)
+    (property "Reference" "C22" (at 210.82 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 210.82 120.015 0)
@@ -3536,7 +3536,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C23") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -3570,7 +3570,7 @@
   (symbol (lib_id "Device:C") (at 237.49 118.11 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f16921a6-f9ac-4ef7-bb01-846fe4d64d61)
-    (property "Reference" "C25" (at 233.68 117.475 0)
+    (property "Reference" "C24" (at 233.68 117.475 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 233.68 120.015 0)
@@ -3587,7 +3587,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/c5787904-c565-43ec-b695-fda4c870d102"
-          (reference "C25") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )

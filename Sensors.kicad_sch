@@ -854,7 +854,7 @@
   (symbol (lib_id "Device:C") (at 58.42 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0aed79fa-299b-4111-8a1c-df2be3cde02c)
-    (property "Reference" "C27" (at 50.546 101.6 0)
+    (property "Reference" "C26" (at 50.546 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 50.546 104.14 0)
@@ -871,7 +871,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "C27") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -930,7 +930,7 @@
   (symbol (lib_id "Odyssey:LIS2MDL") (at 87.63 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ca2bf8a-64f4-48df-97d7-24c196ffb21d)
-    (property "Reference" "U12" (at 93.98 130.81 90)
+    (property "Reference" "U11" (at 93.98 130.81 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LIS2MDL" (at 93.98 133.35 90)
@@ -957,7 +957,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "U12") (unit 1)
+          (reference "U11") (unit 1)
         )
       )
     )
@@ -966,7 +966,7 @@
   (symbol (lib_id "Device:C") (at 193.04 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 47e42d7e-cabe-4671-9cf3-23ae88e4b42c)
-    (property "Reference" "C32" (at 185.166 101.6 0)
+    (property "Reference" "C31" (at 185.166 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 185.166 104.14 0)
@@ -983,7 +983,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "C32") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -992,7 +992,7 @@
   (symbol (lib_id "Device:C") (at 105.41 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4be47def-52b4-4f02-b8b2-6c54c9602f4a)
-    (property "Reference" "C26" (at 109.22 88.265 0)
+    (property "Reference" "C25" (at 109.22 88.265 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "200n" (at 109.22 90.805 0)
@@ -1009,7 +1009,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "C26") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -1043,7 +1043,7 @@
   (symbol (lib_id "Device:C") (at 69.85 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69cc29db-6b2d-4314-b506-e96c07a0cb54)
-    (property "Reference" "C28" (at 61.976 101.6 0)
+    (property "Reference" "C27" (at 61.976 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 61.976 104.14 0)
@@ -1060,7 +1060,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "C28") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -1069,7 +1069,7 @@
   (symbol (lib_id "Device:C") (at 82.55 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b6c0f9e-1eec-4317-a951-241ca607d930)
-    (property "Reference" "C29" (at 74.676 101.6 0)
+    (property "Reference" "C28" (at 74.676 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 74.676 104.14 0)
@@ -1086,7 +1086,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "C29") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -1095,7 +1095,7 @@
   (symbol (lib_id "Device:C") (at 180.34 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7b8a0de6-8048-43dd-9d88-baee6508d0c3)
-    (property "Reference" "C31" (at 172.466 101.6 0)
+    (property "Reference" "C30" (at 172.466 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 172.466 104.14 0)
@@ -1112,7 +1112,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "C31") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -1121,7 +1121,7 @@
   (symbol (lib_id "Device:C") (at 132.08 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 880fbc56-ca56-4e19-b27c-9ee8b4c56004)
-    (property "Reference" "C30" (at 123.698 101.6 0)
+    (property "Reference" "C29" (at 123.698 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 123.698 104.14 0)
@@ -1138,7 +1138,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "C30") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -1172,7 +1172,7 @@
   (symbol (lib_id "Sensor_Pressure:MS5611-01BA") (at 144.78 96.52 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 936aa4ea-986a-4eae-886e-9ae0732505e2)
-    (property "Reference" "U13" (at 144.78 130.81 90)
+    (property "Reference" "U12" (at 144.78 130.81 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MS5611-01BA" (at 144.78 133.35 90)
@@ -1195,7 +1195,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "U13") (unit 1)
+          (reference "U12") (unit 1)
         )
       )
     )
@@ -1254,7 +1254,7 @@
   (symbol (lib_id "Odyssey:LSM6DSO32") (at 198.12 92.71 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ae98faa2-a858-45f1-86db-42aff2f1a0b5)
-    (property "Reference" "U11" (at 205.74 130.81 90)
+    (property "Reference" "U10" (at 205.74 130.81 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LSM6DSO32" (at 205.74 133.35 90)
@@ -1283,7 +1283,7 @@
     (instances
       (project "Nova"
         (path "/0c006d9f-ae30-49aa-ab15-ff0bec4de0e8/b4564e06-ae37-4733-9020-dc4bb7ce2d2c"
-          (reference "U11") (unit 1)
+          (reference "U10") (unit 1)
         )
       )
     )
